@@ -156,12 +156,11 @@
     font-size: 18px;
     margin-bottom: 30px;
 }
-.last-last-input{
-   
-}
+
 .input-name{
     padding: 15px 10px;
     width: 400px;
+    border: 0;
 }
 .submit{
     padding: 15px 10px;
