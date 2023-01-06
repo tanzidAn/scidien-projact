@@ -166,6 +166,9 @@
     padding: 15px 10px;
     width: 150px;
 }
+.last-last-input{
+    display: flex;
+}
 .first-last-class{
     margin-left: 315px;
     margin-right: 316px;
